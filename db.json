@@ -1,20 +1,13 @@
 {
-   "id":1,
-   "name":"First item"
-},
-{
-   "id":2,
-   "name":"Second item"
-},
-{
-   "id":3,
-   "name":"Third item"
-},
-{
-   "id":4,
-   "name":"Fourth item"
-},
-{
-   "id":20,
-   "name":"Last item"
+  "posts": [
+    { "id": 1, "title": "First Item" },
+    { "id": 2, "title": "Second Item" },
+    { "id": 3, "title": "Third Item" },
+    { "id": 4, "title": "Fourth Item" },
+    { "id": 20, "title": "Last Item" }
+  ],
+  "user": {
+    "name": "John",
+    "surname" : "Doe"
+  }
 }
